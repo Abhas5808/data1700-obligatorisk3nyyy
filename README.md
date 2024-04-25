@@ -1,6 +1,6 @@
 FULLT Navn : Abdirahman Mohammed Hassan
 studentnr = s385544
-github repo link :
+github repo link : gh repo clone Abhas5808/data1700-obligatorisk3nyyy
 youtube link : https://www.youtube.com/watch?v=GWfD6mB7GFw
 Denne appen lar deg enkelt kjøpe kinobilletter online. Du kan velge filmen du vil se fra en liste som inkluderer populære titler som Spider-Man og The Flash. Etter å ha valgt en film, skriv inn antall billetter du trenger og skriv inn personlig informasjon som navn, e-postadresse og telefonnummer.
 
